@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://eDisis:8414458a@contactkeeper.yqpeh.mongodb.net/Users?retryWrites=true&w=majority",
+    "jwtSecert": "almog123"
+}
